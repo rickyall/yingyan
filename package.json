@@ -1,0 +1,19 @@
+{
+  "name": "yingyan",
+  "version": "1.0.0",
+  "description": "yingyan 客户端",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "qisc",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
